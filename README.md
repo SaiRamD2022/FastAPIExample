@@ -1,3 +1,4 @@
+
 # FastAPI Example
 ### Python Version : 3.9
 
@@ -37,6 +38,9 @@ After settting up the environment, running local tests would be a good first tes
 To run the unit tests after the dependencies are install and the environment is setup.
 
 `$ pytest tests/ -v --cov=src`
+
+
+
 
 
 
